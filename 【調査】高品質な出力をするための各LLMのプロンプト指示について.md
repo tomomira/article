@@ -84,6 +84,10 @@ AIに特定の専門家になりきってもらうと、その立場に合った
 **参照URL:**
 - **Anthropic prompt engineering:** [https://docs.anthropic.com/claude/docs/introduction-to-prompt-design](https://docs.anthropic.com/claude/docs/introduction-to-prompt-design)
 
+
+**ファイルリンク**
+[[【調査】Claudeプロンプトの最大化]]
+
 ---
 
 ## Gemini固有のポイント
