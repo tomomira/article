@@ -34,4 +34,12 @@
 ## 参考HP
 【最新】GitHub ActionsでGemini CLIを活用してみよう
  https://zenn.dev/makumaaku/articles/15f56ac617a3af
+
+[[【調査】GitHub Actionsをやってみよう]]
+
+ 【超入門】GitHub Actionsを分かりやすくサクッと解説
+ https://www.youtube.com/watch?v=Tzj9fHVazuI
+
+[[【調査】GitHub Actions最小準備]]
+ 
  
